@@ -1,2 +1,0 @@
-# DayPractise
-Created with CodeSandbox
